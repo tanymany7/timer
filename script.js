@@ -4,7 +4,7 @@
   Set this to your actual reveal date and time.
   Example below: October 16, 2026 at 7:00 PM IST.
 */
-const deadline = new Date("2026-10-24T19:00:00+05:30").getTime();
+const deadline = new Date("2026-10-26T09:30:00+05:30").getTime();
 
 const daysElement = document.getElementById("days");
 const hoursElement = document.getElementById("hours");
